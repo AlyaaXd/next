@@ -56,11 +56,11 @@ let handler = async function (m, { text, usedPrefix, command }) {
 ┗━━━━━━━━━━━━━━━━━━㉿
 ┏━━〔 ıll CONTOH llı 〕━㉿
 ⬡ #daftar namamu.umurmu
-⬡ #daftar PutraModz.18
+⬡ #daftar DityaAstawa.18
 ┗━━━━━━━━━━㉿ 
 ⫹⫺ 
 ⫹⫺`, 
-   footer: `*ᴘᴜᴛʀᴀᴍᴏᴅz*`, 
+   footer: `*dityaastawa*`, 
    title: "", 
    buttonText: "CLICK HERE", 
    sections 
