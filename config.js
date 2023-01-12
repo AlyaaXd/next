@@ -27,36 +27,36 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/q.c.ditya'
-global.syt = 'https://youtube.com/@dityaastawa6595'
-global.sgh = 'https://github.com/Dityarunz'
-global.sgc = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP'
-global.sdc = 'https://wa.me/6285237596750'
-global.swa = 'wa.me/6285237596750'
+global.sig = 'https://instagram.com/q.c.Alyaa'
+global.syt = '-'
+global.sgh = 'https://github.com/AlyaaXd'
+global.sgc = '-'
+global.sdc = 'https://wa.me/6289505165400'
+global.swa = 'wa.me/6289505165400'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085792429140'
-global.povo = '085738153140'
-global.pgopay = '085792429140'
-global.ppulsa = '085792429140'
-global.ppulsa2 = '085792429140'
+global.pdana = '085730903853'
+global.povo = '085730903853'
+global.pgopay = '085730903853'
+global.ppulsa = '085707212369'
+global.ppulsa2 = '085707212369'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285792429140'
-global.nomorown = '6285237596750'
-global.namebot = 'DityaBotz'
-global.nameown = 'DityaAstawa'
+global.nomorbot = '085730903853'
+global.nomorown = '6289505165400'
+global.namebot = 'Daunn 🍃'
+global.nameown = 'AlyaaXd'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285237596750'],
-  ['6285237596750'],
-  ['6285237596750'],
-  ['6285237596750', 'DityaAstawa', true]
+  ['6289505165400'],
+  ['6289505165400'],
+  ['6289505165400'],
+  ['6289505165400', 'AlyaaXd', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,14 +109,14 @@ global.bear = 'VBkM7rbU'
 
 /*============== WATERMARK ==============*/
 global.gcname = 'DITYA BOTZ || MULTI-DEVICE'//nama group kalian
-global.wm = 'By DityaBotz' //Main Watermark
-global.wm2 = 'DityaAstawa'
-global.wm3 = 'DityaBotz | By DityaAstawa'
+global.wm = 'By AlyaaXd' //Main Watermark
+global.wm2 = 'Daunn 🍃'
+global.wm3 = 'Daunn 🍃 | By AlyaaXd'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'DityaAstawa' 
-global.packname = 'DityaAstawa'
+global.author = 'AlyaaXd' 
+global.packname = 'AlyaaXd'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Mei 05 2023'
 
@@ -135,10 +135,10 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'DityaAstawa'
+global.nameowner = 'AlyaaXd'
 global.umurowner = '16'
-global.asalowner = 'Bali, Jembrana'
-global.nomorowner = 'wa.me/6285237596750'
+global.asalowner = 'jatim, Sibon'
+global.nomorowner = 'wa.me/6289505165400'
 global.pacarowner = 'gakada'
 
 /*============== TEXT ==============*/
@@ -387,8 +387,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By DityaBotz'
-global.stickauth = `DityaAstawa`
+global.stickpack = 'By AlyaaXd'
+global.stickauth = `AlyaaXd`
 
 global.multiplier = 38 // The higher, The harder levelup
 
